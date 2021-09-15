@@ -8,7 +8,7 @@
   * SpringMVC
   * Spring Security
   * Spring Boot
-+ Hibernate
++ Hibernate ORM
 + Apache Tomcat
 + Maven
 + MySQL
