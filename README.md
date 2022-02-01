@@ -11,6 +11,7 @@
 + Hibernate ORM
 + Apache Tomcat
 + Maven
++ PostgreSQL
 + MySQL
 + JUnit
 
