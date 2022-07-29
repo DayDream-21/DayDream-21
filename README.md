@@ -1,5 +1,5 @@
 + Java SE 
-+ Spring (Boot, Sequrity, Data, MVC)
++ Spring (Boot, Security, Data, MVC)
 + Hibernate ORM
 + Apache Tomcat
 + Maven
