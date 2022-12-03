@@ -6,6 +6,8 @@
 + PostgreSQL
 + MySQL
 + JUnit
++ Swagger
++ Docker
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
