@@ -8,6 +8,8 @@
 + JUnit
 + Swagger
 + Docker
++ FlyWay
++ RxJava, Project Reactor
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
