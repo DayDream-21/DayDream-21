@@ -1,5 +1,5 @@
 ## RESUME
-[https://drive.google.com/file/d/1C2st5P4gTf_dwhkyRutg1sI_Wceb5mxv/view?usp=sharing](Resume)
+https://drive.google.com/file/d/17qtMIT4MiKWtRJcMmiUcBYMmhWm0Nv6W/view?usp=sharing
 
 ## SKILLS
 Java <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/>  
