@@ -28,7 +28,7 @@
 
   <!--<div align="center">
 	<br>
-	<a href="https://github.com/DayDream-21/readme-svg/blob/main/test.svg">
+	<a href="https://github.com/SlavaMashkov/readme-svg/blob/main/test.svg">
 		<img src="test.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>-->
