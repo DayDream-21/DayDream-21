@@ -1,6 +1,8 @@
 ## RESUME
 https://drive.google.com/file/d/17qtMIT4MiKWtRJcMmiUcBYMmhWm0Nv6W/view?usp=sharing
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## SKILLS
 Java <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/>  
 <br>
