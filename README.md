@@ -3,10 +3,10 @@
 ## SKILLS
 <p align="center">
   <h2>Backend</h1>
-  <div style="display:flex; flex-direction:row;">
+  <!--<div style="display:flex; flex-direction:row;">
     <img src="https://skillicons.dev/icons?i=java"/>
     <h3> Java </h3>
-  </div>
+  </div>-->
   <div>
     <img src="https://skillicons.dev/icons?i=java,go,spring,htmx,rabbitmq,hibernate&perline=5" />
   </div>
@@ -26,11 +26,11 @@
     <img src="https://skillicons.dev/icons?i=git,docker,maven,gradle,grafana,prometheus&perline=5" />
   </div>
 
-  <div align="center">
+  <!--<div align="center">
 	<br>
 	<a href="https://github.com/DayDream-21/readme-svg/blob/main/test.svg">
 		<img src="test.svg" width="800" height="400" alt="Click to see the source">
 	</a>
-	<br>
+	<br>-->
 </div>
 </p>
